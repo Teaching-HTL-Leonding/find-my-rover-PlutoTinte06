@@ -1,0 +1,15 @@
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung FindYourRover\bin\Debug\net7.0\Übung FindYourRover.exe
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung FindYourRover\bin\Debug\net7.0\Übung FindYourRover.deps.json
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung FindYourRover\bin\Debug\net7.0\Übung FindYourRover.runtimeconfig.json
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung FindYourRover\bin\Debug\net7.0\Übung FindYourRover.dll
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung FindYourRover\bin\Debug\net7.0\Übung FindYourRover.pdb
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung FindYourRover\obj\Debug\net7.0\Übung FindYourRover.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung FindYourRover\obj\Debug\net7.0\Übung FindYourRover.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung FindYourRover\obj\Debug\net7.0\Übung FindYourRover.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung FindYourRover\obj\Debug\net7.0\Übung FindYourRover.AssemblyInfo.cs
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung FindYourRover\obj\Debug\net7.0\Übung FindYourRover.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung FindYourRover\obj\Debug\net7.0\Übung FindYourRover.dll
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung FindYourRover\obj\Debug\net7.0\refint\Übung FindYourRover.dll
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung FindYourRover\obj\Debug\net7.0\Übung FindYourRover.pdb
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung FindYourRover\obj\Debug\net7.0\Übung FindYourRover.genruntimeconfig.cache
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung FindYourRover\obj\Debug\net7.0\ref\Übung FindYourRover.dll
